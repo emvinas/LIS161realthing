@@ -1,0 +1,68 @@
+
+h1 {
+	font-family: 'Italianno', cursive;
+	font-size: 65px;
+	color: white;
+	border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    text-align: center;
+    background: black;
+}
+
+header {
+	font-size: 25px;
+
+}
+
+html {
+    background: url(https://i.imgur.com/PpPM3Ue.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 1000px;
+  	margin: auto;
+  	border: 3px solid #E5F9E0;
+  }
+
+  article {
+  	font-size: 30px;
+	color:#FFFFFF;
+	border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    text-align: center;
+    background: transparent;
+
+   }
+
+    div {
+    font-size: 28px;
+	color:#FFFFFF;
+	border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    text-align: center;
+    background: transparent;
+    }
+
+    footer {
+    font-size: 25px;
+	color: white;
+	border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    text-align: center;
+    background: black;
+    }
+
+	br {
+        line-height: 300%;
+     }
+
+     nav {
+     background-color: white;
+     background-position: fixed;
+     }
+
+     
